@@ -1,6 +1,6 @@
-#0x03. Git
+# 0x03. Git
 
-##Learning Objectives
+## Learning Objectives
 
 - What is source code management
 - What is Git

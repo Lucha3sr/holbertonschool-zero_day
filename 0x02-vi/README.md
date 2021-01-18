@@ -1,6 +1,6 @@
-#0x02. vi
+# 0x02. vi
 
-##Learning Objectives
+## Learning Objectives
 
 - What is vi
 - Who is Bill Joy
